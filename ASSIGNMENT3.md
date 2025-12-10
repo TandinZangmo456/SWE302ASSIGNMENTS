@@ -312,7 +312,17 @@ This report summarizes the implementation of comprehensive performance testing u
 
 ## Proof
 
+![alt text](<assignment-1-workspace/A3SS/Screenshot from 2025-12-10 21-07-27.png>)
 
+![alt text](<assignment-1-workspace/A3SS/Screenshot from 2025-12-10 21-07-55.png>)
+
+![alt text](<assignment-1-workspace/A3SS/Screenshot from 2025-12-10 21-08-20.png>)
+
+![alt text](<assignment-1-workspace/A3SS/Screenshot from 2025-12-10 21-08-32.png>)
+
+![alt text](<assignment-1-workspace/A3SS/Screenshot from 2025-12-10 21-08-52.png>)
+
+![alt text](<assignment-1-workspace/A3SS/Screenshot from 2025-12-10 21-09-56.png>)
 
 ## Conclusion
 

@@ -213,6 +213,11 @@ This report summarizes the implementation of Static Application Security Testing
 
 ## Proof 
 
+![alt text](<assignment-1-workspace/A2SS/Screenshot from 2025-12-10 20-14-12.png>)
+
+![alt text](<assignment-1-workspace/A2SS/Screenshot from 2025-12-10 20-14-37.png>)
+
+![alt text](<assignment-1-workspace/A2SS/Screenshot from 2025-12-10 20-15-54.png>)
 
 ## Conclusion
 
